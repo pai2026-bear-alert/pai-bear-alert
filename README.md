@@ -4,7 +4,7 @@ Physical AI 応用1 最終課題。
 
 動画からYOLOでクマを検出し、ROS 2のトピック `/bear_alert` を通じて、Gazebo上のロボットアーム CRANE+ V2 に警告の動作（グリッパを開き、アームを左右に振る）をさせます。
 
-- デモ動画：（YouTubeのURL）
+- デモ動画：https://youtu.be/LVzmCpyJfQI
 
 ## システム構成
 
